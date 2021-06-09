@@ -42,7 +42,7 @@ The sniping bot can be used in three different cases:
 - Press the Snipe button to start sniping.
 
 ## Pricing 
-In order to purchase the bot you need to send **0.5 BNB** to this address: **0x95BFD6C1083C57179E20De371635dF5a7505278B** using the Binance Smart Chain (BSC), i.e. you can use your metamask or Trust wallet to send them.
+In order to purchase the bot you need to send **0.5 BNB** to this address: **0xA072aF441537939BBbca874d19841168c11FfDEC** using the Binance Smart Chain (BSC), i.e. you can use your metamask or Trust wallet to send them.
 
 **IMPORTANT: The address you intend to use for sniping, must be the same as the wallet you used to make the transfer.**
 
